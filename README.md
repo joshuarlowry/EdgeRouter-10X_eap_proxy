@@ -1,7 +1,7 @@
 # guide_eap_proxy
 Using the files from https://github.com/jaysoffian/eap_proxy these are the instructions to get a fully functional bypass using a EdgeRouter Lite and AT&amp;T router.  
 
-Searching multiple places I could only find snippets and partial code.  After piecing these together I got a working config.  
+Searching multiple places I could only find snippets and partial code.  After piecing these together I got a working config. 
 
 Kudos to https://www.reddit.com/user/SScorpio/ that provided most if not all of the script from https://www.reddit.com/r/uverse/comments/9ii4t5/eli5_how_to_use_eaproxy_and_att_uverse/e9fbtoa/
 
