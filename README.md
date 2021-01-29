@@ -41,6 +41,7 @@ This guide configures the EdgeRouter ports with the following:
 * [EdgeRouter - Configuration and Operational Mode](https://help.ui.com/hc/en-us/articles/204960094-EdgeRouter-Configuration-and-Operational-Mode)
 * [Intro to Networking - How to Establish a Connection Using SSH](https://help.ui.com/hc/en-us/articles/218850057)
 * [CLI Command Primer](https://community.ui.com/questions/EdgeOS-CLI-Primer-part-1/dc0a7754-1bcf-4ca0-9d02-239100dbc926)
+* (Setup SSL with LetsEncrypt)[https://github.com/j-c-m/ubnt-letsencrypt]
 
 
 # 0. Prework
