@@ -1,3 +1,5 @@
+Please note that this hasn't been thoroughly tested yet. I'm still learning how all of the configuration works based on (Genghis1227/guide_eap_proxy)[https://github.com/Genghis1227/guide_eap_proxy]
+
 - [Configuring Edgerouter 10X with EAP Proxy for AT&T Gigabit](#configuring-edgerouter-10x-with-eap-proxy-for-att-gigabit)
 	- [Basic Reading](#basic-reading)
 - [0. Prework](#0-prework)
