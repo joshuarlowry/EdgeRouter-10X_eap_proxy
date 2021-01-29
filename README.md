@@ -3,8 +3,8 @@
 - [0. Prework](#0-prework)
 	- [On your AT&T Router](#on-your-att-router)
 	- [On your EdgeRouter](#on-your-edgerouter)
+		- [Backup and update](#backup-and-update)
 	- [On your computer/laptop](#on-your-computerlaptop)
-	- [Backup original configuration](#backup-original-configuration)
 - [1. Basic Setup](#1-basic-setup)
 	- [Setup DHCP](#setup-dhcp)
 	- [Setup DNS](#setup-dns)
@@ -66,6 +66,12 @@ Disable the WiFi on the AT&T router.
 ## On your EdgeRouter
 Perform a factory reset.
 
+### Backup and update
+* Backup config of the EdgeRouter (System > Back Up Config) - Old firmware
+* Check www.ubnt.com/download to see if there is an updated firmware, download (if desired)
+* Upgrade firmware of device (if desired) (System > Upgrade System Image)
+* Backup config of the EdgeRouter (System > Back Up Config) - New firmware
+
 ## On your computer/laptop
 
 Install [WinSCP](https://winscp.net/eng/index.php) - To transfer files
@@ -77,13 +83,6 @@ Plug in a computer to eth0
 Set IP of computer to 192.168.1.100, 255.255.255.0, 192.168.1.1 - [How to: Change IP address in Windows](https://www.thewindowsclub.com/change-ip-address-windows-10)
 
 Login to the EdgeRouter EdgeOS by going to https://192.168.1.1 in your browser
-
-## Backup original configuration
-
-* Backup config of the EdgeRouter (System > Back Up Config) - Old firmware
-* Check www.ubnt.com/download to see if there is an updated firmware, download (if desired)
-* Upgrade firmware of device (if desired) (System > Upgrade System Image)
-* Backup config of the EdgeRouter (System > Back Up Config) - New firmware
 
 # 1. Basic Setup
 
