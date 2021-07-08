@@ -30,7 +30,7 @@ This guide configures the EdgeRouter ports with the following:
 
 	eth0 = WAN (the connection from the ONT)
 	eth1 = AT&T Router
-	eth2 = LAN
+	eth2 = _Reserving for failover internet_
 	eth3 = LAN
 	eth4 = LAN
 	eth5 = LAN
