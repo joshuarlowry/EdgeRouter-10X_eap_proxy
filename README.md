@@ -471,7 +471,7 @@ Plug in cable in from ONT to eth0
 
 Plug in cable in from AT&T router to eth1 
 
-Plug in cable out to LAN from eth2 - eth9
+Plug in cable out to LAN from eth3 - eth9
 
 In you should see EAPOL start with a whole bunch of communication
 
